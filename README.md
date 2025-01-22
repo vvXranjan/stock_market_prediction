@@ -76,12 +76,7 @@ Department of DSAI & ECE, Dr. Shyama Prasad Mukherjee International Institute of
 4. MKSVR model integrating market news and stock prices.
 5. Various academic papers and resources listed in the report.
 
----
 
-## Contact
-**Institution**: Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur  
-**Email**: [iiitnr@iiitnr.ac.in](mailto:iiitnr@iiitnr.ac.in)  
-**Website**: [www.iiitnr.ac.in](http://www.iiitnr.ac.in)
 
 ```python
 # Sample Code for Data Preprocessing
